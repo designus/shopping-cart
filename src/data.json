@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "price": 0.25,
+    "currency": "Fr",
+    "discount": null
+  },
+  {
+    "id": 2,
+    "name": "Oranges",
+    "price": 0.3,
+    "currency": "Fr",
+    "discount": {
+      "genPromotion": "20% off!",
+      "promotion": "",
+      "minQuantity": 0,
+      "rate": 20
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bananas",
+    "price": 0.15,
+    "currency": "Fr",
+    "discount": {
+      "genPromotion": "10% for every fourth",
+      "promotion": "",
+      "minQuantity": 3,
+      "rate": 10
+    }
+  },
+  {
+    "id": 4,
+    "name": "Papayas",
+    "price": 0.5,
+    "currency": "Fr",
+    "discount": {
+      "genPromotion": "3 for price of 2",
+      "promotion": "next one is for free!",
+      "minQuantity": 2,
+      "rate": 100
+    }
+  }
+]

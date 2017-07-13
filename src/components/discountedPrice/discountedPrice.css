@@ -1,0 +1,14 @@
+.old-price,
+.new-price {
+  padding: 0 5px;
+}
+
+.old-price {
+  color: #ccc;
+  text-decoration: line-through;
+  padding: 0 5px;
+}
+
+.new-price {
+  color: red;
+}

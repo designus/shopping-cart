@@ -1,0 +1,15 @@
+.basket {
+  width: 30%;
+}
+
+.basket-content {
+  background: #efefef;
+  padding: 30px 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.basket h3 {
+  margin-top: 0;
+  padding-top: 0;
+}

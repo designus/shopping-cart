@@ -1,0 +1,33 @@
+.basket-products {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.basket-products th,
+.basket-products td {
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  text-align: left; 
+}
+
+.basket-products tbody tr:last-child td {
+  border: none;
+}
+
+.align-right {
+  text-align: right!important;
+}
+
+.hidden {
+  display: none;
+}
+
+.remove-column {
+  width: 5%;
+}
+
+.remove {
+  padding: 5px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+}
